@@ -1,4 +1,4 @@
-customer_id,ontime_target_pct,infull_target_pct,otif_target_pct
+customer_id,ot_target_pct,if_target_pct,otif_target_pct
 789101,86,80,69
 789102,90,81,73
 789103,92,67,62
