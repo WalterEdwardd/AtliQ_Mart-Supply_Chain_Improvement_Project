@@ -1,4 +1,4 @@
-This file contains all the meta information regarding the columns described in the CSV files. we have provided 3 CSV files:
+This file contains all the meta information regarding the columns described in the CSV files. we have provided 6 CSV files:
 1. dim_customers.csv
 2. dim_products.csv
 3. dim_date
@@ -40,9 +40,9 @@ Column Description for dim_targets_orders:
 This table contains all target data at the customer level
 
 1. customer_id: Unique ID that is given to each of the customers
-2. ontime_target_pct: Target assigned for Ontime % for a given customer
-3. infull_target_pct: Target assigned for infull % for a given customer
-4. otif_target_pct:   Target assigned for otif % for a given customer
+2. ot_target_pct: Target assigned for Ontime % for a given customer
+3. if_target_pct: Target assigned for infull % for a given customer
+4. otif_target_pct: Target assigned for otif % for a given customer
 
 ---------------------------------------------------------------------------------------------------
 
@@ -57,9 +57,9 @@ This table contains all information about orders and each item inside the orders
 6. agreed_delivery_date: It is the date agreed between the customer and Atliq Mart to deliver the products
 7. actual_delivery_date: It is the actual date Atliq Mart delivered the product to the customer
 8. delivered_qty: It is the number of products that are actually delivered to the customer
-9. on_time: '1' denotes the order is delviered on time. '0' denotes the order is not delivered on time.
-10. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
-11: otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
+9. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
+10. on_time: '1' denotes the order is delviered on time. '0' denotes the order is not delivered on time.
+11: otif: '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
 
 ---------------------------------------------------------------------------------------------------
 
@@ -71,4 +71,4 @@ This table contains information about OnTime, InFull and OnTime Infull informati
 3. order_placement_date: It is the date when the customer placed the order
 4. on_time: '1' denotes the order is delviered on time. '0' denotes the order is not delivered on time.
 5. in_full: '1' denotes the order is delviered in full quantity. '0' denotes the order is not delivered in full quantity.
-6: otif:    '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
+6: otif: '1' denotes the order is delviered both on time and in full quantity. '0' denotes the order is either not delivered on time or not in full quantity.
