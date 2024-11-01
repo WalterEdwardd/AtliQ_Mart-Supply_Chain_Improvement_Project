@@ -1,4 +1,4 @@
-This file contains all the meta information regarding the columns described in the CSV files. we have provided 3 CSV files:
+This file contains all the meta information regarding the columns described in the CSV files. we have provided 6 CSV files:
 1. dim_customers.csv
 2. dim_products.csv
 3. dim_date
