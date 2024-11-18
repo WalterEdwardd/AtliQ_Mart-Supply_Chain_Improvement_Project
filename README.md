@@ -42,3 +42,16 @@ The execution phase focuses on implementing strategies to address identified iss
 service delivery, ensuring improvements lead to tangible results and increased customer satisfaction.
 
 Details about the framework here: [Framework](docs/Report_Framework.pdf)
+
+## II. Data
+This data has been provided by the AtliQ Mart and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis.
+- Data is provided in 6 CSV files:
+1. [dim_customers](data/processed/dim_customers.csv)
+2. [dim_products](data/processed/dim_products.csv)
+3. [dim_date](data/processed/dim_date.csv)
+4. [dim_targets_orders](data/processed/dim_targets_orders.csv)
+5. [fact_order_lines](data/processed/fact_order_lines.csv)
+6. [fact_orders_aggregate](data/processed/fact_orders_aggregate.csv)
+
+Details about the datasets here: [Cleaned Data Description](docs/cleaned_meta_data.txt)
+
