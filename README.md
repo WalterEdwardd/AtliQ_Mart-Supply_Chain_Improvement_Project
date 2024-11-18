@@ -61,3 +61,9 @@ Details about the datasets here: [Cleaned Data Description](docs/cleaned_meta_da
 - Details about the entity relationship diagram here: [ERD](docs/Report_ERD.pdf)
 - Details about the star schema here: [Star Schema](docs/Report_Star_Schema.pdf)
 
+## IV. Results
+### 1. Dashboard
+![image](image.png)
+
+Details about the dashboard here: [Dashboard](reports/dashboards/AtliQ_Mart-Supply_Chain_Improvement_Dashboards_PDF.pdf)
+
