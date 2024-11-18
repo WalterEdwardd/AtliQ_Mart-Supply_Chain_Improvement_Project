@@ -26,3 +26,19 @@ Details about the project goals here: [Project Goals](docs/Report_Project_Goals.
 ### 3. Ethical Considerations:
 This data is provided by AtliQ Mart and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. There is no personally identifiable information (PII) in this dataset.
 
+### 4. Framework Establishment (PACE)
+#### 4.1. Plan:
+The planning phase sets clear steps to address AtliQ Mart’s service issues, focusing on goals, 
+resources, and measurable outcomes.
+
+#### 4.2. Analysis:
+This phase involves processing data to uncover insights for improving AtliQ Mart's service.
+
+#### 4.3. Communication:
+This phase focuses on effectively sharing insights and collaborating with teams to ensure successful project implementation.
+
+#### 4.4. Execution:
+The execution phase focuses on implementing strategies to address identified issues and enhance 
+service delivery, ensuring improvements lead to tangible results and increased customer satisfaction.
+
+Details about the framework here: [Framework](docs/Report_Framework.pdf)
