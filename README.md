@@ -74,5 +74,23 @@ Details about the Insights and Key Findings here:
 - [Presentations File](reports/presentations/AtliQ_Mart-Supply_Chain_Improvement_Insights&Key_Findings_PDF.pdf)
 - [Document File](docs/Report_Insights&KeyFindings.pdf)
 
+## V. Recommendations for AtliQ Mart
+### 1. Improving Delivery Rates (OT, IF, OTIF)
+- Optimize replenishment cycles and demand forecasting.
+- Prioritize key customers (top 6 customers account for 53% of total orders).
+- Focus on cities with underperforming metrics: Ahmedabad, Surat, and Vadodara.
+### 2. Performance Tracking and Reporting
+- Use Power BI for real-time dashboards.
+- Set up alerts for metrics falling below required thresholds.
+### 3. Customer Feedback
+- Collect feedback post-delivery and hold regular meetings with key customers.
+### 4. Optimizing Delivery Process
+- Use route optimization tools and collaborate with logistics partners.
+### 5. Staff Training and Development
+- Train the team on data analysis and reward service improvements.
+### Additional Recommendations:
+- Pilot improvements in key cities and upgrade IT infrastructure.
+
+Details about the Recommendations here: [Recommendations](docs/Report_Recommendations.pdf)
 
 
