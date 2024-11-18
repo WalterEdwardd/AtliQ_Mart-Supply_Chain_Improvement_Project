@@ -1,0 +1,19 @@
+product_name,product_id,category
+am milk 500,25891101,dairy
+am milk 250,25891102,dairy
+am milk 100,25891103,dairy
+am butter 100,25891201,dairy
+am butter 250,25891202,dairy
+am butter 500,25891203,dairy
+am ghee 250,25891301,dairy
+am ghee 150,25891302,dairy
+am ghee 100,25891303,dairy
+am curd 250,25891401,dairy
+am curd 100,25891402,dairy
+am curd 50,25891403,dairy
+am biscuits 750,25891501,food
+am biscuits 500,25891502,food
+am biscuits 250,25891503,food
+am tea 500,25891601,beverages
+am tea 250,25891602,beverages
+am tea 100,25891603,beverages
