@@ -63,12 +63,12 @@ Details about the datasets here: [Cleaned Data Description](docs/cleaned_meta_da
 
 ## IV. Results
 ### 1. Dashboard
-![overview](overview_dashboards.png)
+![image](https://github.com/user-attachments/assets/33157310-e64d-4d7e-a823-c0fa03a4b465)
 
 Details about the dashboard here: [Dashboard](reports/dashboards/AtliQ_Mart-Supply_Chain_Improvement_Dashboards_PDF.pdf)
 
 ### 2. Insights and Key Findings
-![overview](overview_insight.png)
+![image](https://github.com/user-attachments/assets/874cd7d9-b48f-4753-ad35-bd4bcd3e321e)
 
 Details about the Insights and Key Findings here:
 - [Presentations File](reports/presentations/AtliQ_Mart-Supply_Chain_Improvement_Insights&Key_Findings_PDF.pdf)
