@@ -12,3 +12,13 @@ AtliQ Mart is a growing FMCG manufacturer headquartered in Gujarat, India. It is
 AtliQ Mart is currently facing a problem where a few key customers did not extend their annual contracts due to service issues. It is speculated that some of the essential products were either not delivered on time or not delivered in full over a continued period, which could have resulted in bad customer service. Management wants to fix this issue before expanding to other cities and requested their supply chain analytics team to track the ’On time’ and ‘In Full’ delivery service level for all the customers daily basis so that they can respond swiftly to these issues.
 
 Details about the service issues here: [Service Issues](docs/Report_Service_Issues.pdf)
+
+### 2. Goals of the Project
+The main objectives of this project are as follows:
+1. Enhancing On-time (OT), In-full (IF), and On-time In-full (OTIF) Delivery Rates.
+2. Establishing Daily Performance Tracking and Reporting Processes.
+3. Creating Customer Feedback Mechanisms.
+4. Optimizing the Delivery Process.
+5. Training and Developing Staff
+
+Details about the project goals here: [Project Goals](docs/Report_Project_Goals.pdf)
