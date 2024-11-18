@@ -55,3 +55,9 @@ This data has been provided by the AtliQ Mart and used according to the rules pr
 
 Details about the datasets here: [Cleaned Data Description](docs/cleaned_meta_data.txt)
 
+## III. Data Model
+![image](https://github.com/user-attachments/assets/3d3c6036-3b55-4428-9dea-c7f6107616d2)
+
+- Details about the entity relationship diagram here: [ERD](docs/Report_ERD.pdf)
+- Details about the star schema here: [Star Schema](docs/Report_Star_Schema.pdf)
+
