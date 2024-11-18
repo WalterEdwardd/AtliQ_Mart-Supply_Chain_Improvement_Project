@@ -22,3 +22,7 @@ The main objectives of this project are as follows:
 5. Training and Developing Staff
 
 Details about the project goals here: [Project Goals](docs/Report_Project_Goals.pdf)
+
+### 3. Ethical Considerations:
+This data is provided by AtliQ Mart and used according to the rules provided on the Codebasics Resume Project Challenge page for exploratory analysis. There is no personally identifiable information (PII) in this dataset.
+
