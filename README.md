@@ -93,4 +93,12 @@ Details about the Insights and Key Findings here:
 
 Details about the Recommendations here: [Recommendations](docs/Report_Recommendations.pdf)
 
+## VI. Contributing
+Contributions are welcome! Please send me an email for any suggestions or improvements.
 
+Email:[nhudaitran1510@gmail.com](mailto:nhudaitran1510@gmail.com)
+
+## VII. Author
+Created by [Nhu Dai Tran](https://github.com/WalterEdwardd)
+
+<img src="https://github.com/user-attachments/assets/01b769fa-5c75-44db-819f-3fc8781c7e98" alt="Description" width="300" height="400">
